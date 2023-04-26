@@ -1,0 +1,16 @@
+Company Name,Stock Symbol,Sector,Subsector,Portfolio %,Market Price,Average Price,Total Shares,Uncommitted Shares,Market Value,Gain / Loss,%Gain/ Loss,Class
+"Aboitiz Equity Ventures, Inc.",AEV,Holding Firms,Holding Firms,0.05,52.9500,50.9840,2150,2150,112823.61,3208.01,2.93%,Equities
+"AREIT, Inc.",AREIT,Property,Property,0.17,33.1000,32.9115,12300,12300,403486.19,-1325.26,-0.33%,Equities
+Bank of the Philippine Islands,BPI,Financials,Banks,0.05,108.0000,102.5632,1080,1080,115596.07,4827.82,4.36%,Equities
+"Century Pacific Food, Inc.",CNPF,Industrial,"Food, Beverage & Tobacco",0.05,25.0000,24.8468,4600,4600,113970.75,-324.53,-0.28%,Equities
+Citicore Energy REIT Corp.,CREIT,Property,Property,0.15,2.4500,2.1961,140000,140000,339930.15,32476.15,10.56%,Equities
+"D&L Industries, Inc.",DNL,Industrial,"Food, Beverage & Tobacco",0.05,7.7800,7.8789,14000,14000,107945.17,-2359.43,-2.14%,Equities
+First Philippine Holdings Corporation,FPH,Industrial,"Electricity, Energy, Power & Water",0.05,62.4000,62.2954,1750,1750,108222.66,-794.29,-0.73%,Equities
+"Globe Telecom, Inc.",GLO,Services,Telecommunications,0.04,1706.0000,1860.0547,60,60,101443.88,-10159.40,-9.10%,Equities
+"International Container Terminal Services, Inc.",ICT,Services,Transportation Services,0.05,217.2000,204.3146,520,520,111933.15,5689.56,5.36%,Equities
+Metropolitan Bank & Trust Company,MBT,Financials,Banks,0.05,58.7000,57.0319,1900,1900,110531.81,2171.20,2.00%,Equities
+Manila Electric Company,MER,Industrial,"Electricity, Energy, Power & Water",0.05,326.0000,289.3496,350,350,113078.81,11806.45,11.66%,Equities
+"RL Commercial REIT, Inc.",RCR,Property,Property,0.14,5.8000,5.6095,57000,57000,327641.13,7899.63,2.47%,Equities
+"Robinsons Retail Holdings, Inc.",RRHI,Services,Retail,0.0,53.1500,53.1564,200,200,10534.86,-96.42,-0.91%,Equities
+Security Bank Corporation,SECB,Financials,Banks,0.05,91.9500,91.4460,1200,1200,109352.46,-382.74,-0.35%,Equities
+PLDT Inc.,TEL,Services,Telecommunications,0.06,1226.0000,1346.2464,105,105,127577.87,-13778.01,-9.75%,Equities
